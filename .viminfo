@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1689703767,,"wq"
+|2,0,1689704937,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,22 +25,40 @@
 # Registers:
 
 # File marks:
-'0  16  6  ~/abdal.html
-|4,48,16,6,1689703767,"~/abdal.html"
-'1  62  0  ~/git/abd.html
-|4,49,62,0,1689703618,"~/git/abd.html"
-'2  16  6  ~/git/abdal.html
-|4,50,16,6,1689701957,"~/git/abdal.html"
+'0  3  0  ~/abd.txt
+|4,48,3,0,1689704937,"~/abd.txt"
+'1  16  6  ~/abdal.html
+|4,49,16,6,1689703767,"~/abdal.html"
+'2  62  0  ~/git/abd.html
+|4,50,62,0,1689703618,"~/git/abd.html"
+'3  16  6  ~/git/abdal.html
+|4,51,16,6,1689701957,"~/git/abdal.html"
 
 # Jumplist (newest first):
+-'  3  0  ~/abd.txt
+|4,39,3,0,1689704937,"~/abd.txt"
+-'  1  0  ~/abd.txt
+|4,39,1,0,1689704908,"~/abd.txt"
 -'  16  6  ~/abdal.html
 |4,39,16,6,1689703767,"~/abdal.html"
+-'  16  6  ~/abdal.html
+|4,39,16,6,1689703767,"~/abdal.html"
+-'  1  0  ~/abdal.html
+|4,39,1,0,1689703728,"~/abdal.html"
 -'  1  0  ~/abdal.html
 |4,39,1,0,1689703728,"~/abdal.html"
 -'  62  0  ~/git/abd.html
 |4,39,62,0,1689703618,"~/git/abd.html"
 -'  62  0  ~/git/abd.html
 |4,39,62,0,1689703618,"~/git/abd.html"
+-'  62  0  ~/git/abd.html
+|4,39,62,0,1689703618,"~/git/abd.html"
+-'  62  0  ~/git/abd.html
+|4,39,62,0,1689703618,"~/git/abd.html"
+-'  1  0  ~/git/abd.html
+|4,39,1,0,1689703602,"~/git/abd.html"
+-'  1  0  ~/git/abd.html
+|4,39,1,0,1689703602,"~/git/abd.html"
 -'  1  0  ~/git/abd.html
 |4,39,1,0,1689703602,"~/git/abd.html"
 -'  1  0  ~/git/abd.html
@@ -53,6 +71,22 @@
 |4,39,16,6,1689701957,"~/git/abdal.html"
 -'  16  6  ~/git/abdal.html
 |4,39,16,6,1689701957,"~/git/abdal.html"
+-'  16  6  ~/git/abdal.html
+|4,39,16,6,1689701957,"~/git/abdal.html"
+-'  16  6  ~/git/abdal.html
+|4,39,16,6,1689701957,"~/git/abdal.html"
+-'  16  6  ~/git/abdal.html
+|4,39,16,6,1689701957,"~/git/abdal.html"
+-'  16  6  ~/git/abdal.html
+|4,39,16,6,1689701957,"~/git/abdal.html"
+-'  1  0  ~/git/abdal.html
+|4,39,1,0,1689701824,"~/git/abdal.html"
+-'  1  0  ~/git/abdal.html
+|4,39,1,0,1689701824,"~/git/abdal.html"
+-'  1  0  ~/git/abdal.html
+|4,39,1,0,1689701824,"~/git/abdal.html"
+-'  1  0  ~/git/abdal.html
+|4,39,1,0,1689701824,"~/git/abdal.html"
 -'  1  0  ~/git/abdal.html
 |4,39,1,0,1689701824,"~/git/abdal.html"
 -'  1  0  ~/git/abdal.html
@@ -63,6 +97,13 @@
 |4,39,1,0,1689701824,"~/git/abdal.html"
 
 # History of marks within files (newest to oldest):
+
+> ~/abd.txt
+	*	1689704934	0
+	"	3	0
+	^	3	0
+	.	3	0
+	+	3	0
 
 > ~/abdal.html
 	*	1689703762	0
